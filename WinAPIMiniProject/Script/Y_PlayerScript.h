@@ -1,5 +1,7 @@
 #pragma once
 
+//유피의 소원
+
 class Y_DashEffectScript;
 class Y_BtScript;
 
